@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sorry, that was the wrong text for the file.  Did this 
+=======
+Sorry, that was the wrong text for the file.  It's all good.
+>>>>>>> fa247d3ac5095a5e4655640b14e97ed575912872
